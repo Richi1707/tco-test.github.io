@@ -1,0 +1,78 @@
+categorie_ve,modele_ve,type_de_vehicule,cout_achat,co2_max,cout_de_la_recharge_100km
+suv,Audi e-tron 55 quattro,VE,84200,"0,00",3.93
+suv,Audi e-tron 50 quattro,VE,71900,"0,00",3.84
+suv,Audi e-tron Sportback 55,VE,86480,"0,00",3.93
+suv,Audi e-tron Sportback 50,VE,74900,"0,00",3.84
+citadine,BMW i3,VE,39950,"0,00",2.51
+suv,BMW iX3,VE,72950,"0,00",3.0
+utilitaire,Citroën Berlingo Electric,VE,27000,"0,00",24.25
+suv,Citroën e-C4,VE,36100,"0,00",2.74
+citadine,Citroën AMI,VE,6900,"0,00",1.02
+suv,Dacia Spring,VE,16990,"0,00",2.16
+suv,DS 3 Crossback E-Tense,VE,39500,"0,00",2.82
+citadine,Fiat 500 La Prima,VE,34900,"0,00",2.4
+suv,Ford Mustang Mach-E SR AWD,VE,56500,"0,00",2.65
+suv,Ford Mustang Mach-E ER AWD,VE,65500,"0,00",3.0
+suv,Ford Mustang Mach-E SR RWD,VE,48990,"0,00",2.54
+suv,Ford Mustang Mach-E ER RWD,VE,56500,"0,00",2.88
+citadine,Honda-e Advance,VE,38060,"0,00",8.18
+citadine,Honda e,VE,35060,"0,00",8.18
+compacte,Hyundai IONIQ Electric,VE,34900,"0,00",2.13
+suv,Hyundai Kona Electric,VE,39900,"0,00",2.26
+suv,Jaguar I-Pace EV 400,VE,79990,"0,00",3.82
+suv,Kia e-Niro,VE,41000,"0,00",2.36
+suv,Kia e-Soul,VE,39990,"0,00",2.4
+suv,KIA e-Niro 39 kWh,VE,37000,"0,00",5.29
+suv,Lexus UX 300e,VE,49990,"0,00",2.63
+suv,Mazda MX-30,VE,33900,"0,00",9.5
+suv,Mercedes EQC 400 4MATIC,VE,78950,"0,00",4.05
+utilitaire,Mercedes EQV,VE,72744,"0,00",4.93
+suv,MG ZS EV,VE,29990,"0,00",7.07
+citadine,Mini Cooper SE,VE,37600,"0,00",2.79
+compacte,Nissan Leaf,VE,33900,"0,00",2.63
+compacte,Nissan Leaf e+,VE,35800,"0,00",4.68
+utilitaire,Nissan e-NV200 Evalia,VE,35917,"0,00",3.99
+utilitaire,Nissan e-NV200 Fourgon,VE,31490,"0,00",12.95
+suv,Nissan Ariya 87 kWh,VE,45000,"0,00",2.44
+suv,Nissan Ariya 63 kWh,VE,45000,"0,00",2.45
+suv,Nissan Ariya e-4ORCE 87 kWh,VE,45000,"0,00",3.04
+suv,Nissan Ariya e-4ORCE 63 kWh,VE,45000,"0,00",2.59
+citadine,Opel Corsa-e,VE,31300,"0,00",5.04
+suv,Opel Mokka-e,VE,36100,"0,00",4.29
+utilitaire,Opel Vivaro-e 50,VE,33220,"0,00",4.34
+citadine,Peugeot e-208,VE,32100,"0,00",2.71
+suv,Peugeot e-2008,VE,37900,"0,00",2.82
+utilitaire,Peugeot e-Expert 50,VE,47650,"0,00",0.0
+berline,Polestar 2,VE,58900,"0,00",3.28
+berline,Porsche Taycan 4S,VE,108632,"0,00",4.16
+berline,Porsche Taycan Turbo,VE,155552,"0,00",4.24
+berline,Porsche Taycan Turbo S,VE,189152,"0,00",4.05
+citadine,Renault Zoe ZE50 R110,VE,32300,"0,00",3.02
+utilitaire,Renault Kangoo Maxi Z.E,VE,25100,"0,00",9.0
+utilitaire,Renault Kangoo Z.E,VE,22400,"0,00",7.61
+citadine,Renault Zoe ZE50 R135,VE,34000,"0,00",3.02
+citadine,Renault Twingo Electric,VE,21350,"0,00",2.54
+utilitaire,Renault Master Z.E.,VE,53500,"0,00",0.0
+citadine,Seat Mii Electric,VE,21920,"0,00",2.53
+citadine,Skoda Citigo e iV,VE,21600,"0,00",5.09
+suv,Skoda Enyaq iV 80,VE,41220,"0,00",3.33
+suv,Skoda Enyaq iV 60,VE,41220,"0,00",2.71
+suv,Skoda Enyaq iV 80X,VE,41220,"0,00",3.33
+suv,Skoda Enyaq iV RS,VE,40800,"0,00",3.63
+suv,Skoda Enyaq iV 50,VE,36050,"0,00",4.23
+citadine,Smart EQ forfour,VE,24150,"0,00",3.56
+citadine,Smart EQ fortwo,VE,23250,"0,00",3.64
+cabriolet,Smart EQ fortwo cabrio,VE,29800,"0,00",3.56
+berline,Tesla Model 3 Grande Autonomie,VE,57800,"0,00",2.46
+berline,Tesla Model S,VE,91000,"0,00",2.89
+berline,Tesla Model 3 Autonomie Standard Plus,VE,43800,"0,00",2.19
+suv,Tesla Model Y Grande Autonomie,VE,63000,"0,00",3.29
+suv,Tesla Model X ,VE,96700,"0,00",3.35
+citadine,Volkswagen e-Up,VE,23440,"0,00",2.53
+compacte,Volkswagen ID.3 45 kWh,VE,34220,"0,00",2.94
+compacte,Volkswagen ID.3 58 kWh,VE,37990,"0,00",2.99
+compacte,Volkswagen ID.3 77 kWh,VE,48990,"0,00",2.99
+compacte,Volkswagen e-Golf,VE,33950,"0,00",2.5
+utilitaire,Volkswagen e-Crafter,VE,54880,"0,00",18.7
+suv,Volkswagen ID.4,VE,39900,"0,00",3.33
+suv,Volvo XC40 P8 AWD Recharge,VE,59940,"0,00",3.87

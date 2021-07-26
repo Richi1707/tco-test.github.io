@@ -1,0 +1,19 @@
+region,continent,bonus_eco,aides_region_particulier,montant_aides_part,aides_region_profesionnel,montant_aides_pro,prix_stationnement_vt,prix_stationnement_ve,ville_avec_gratuite_ve,ville_avec_tp_ve,montant_taxe_region_vt,taxe_pro,taxe_fixe,frais_supp
+auvergne-rhone-alpes,True,6000,False,0,True,10000,155,430,"Bourg-en-Bresse, Bron, Échirolles, Saint-Priest, Meyzieu, Saint-Martin-d'Hères","Lyon, Annecy",43.0,34,11,2.76
+bourgogne-franche-comte,True,6000,True,0,True,17700,370,0,"Auxerre, Nevers",Aucune ville dans votre région,51.0,34,11,2.76
+bretagne,True,6000,False,0,False,0,224,30,Aucune ville dans votre région,Vannes,51.0,34,11,2.76
+centre-val-de-loire,True,6000,True,1000,False,0,277,165,"Bourges, Chartres, Joué-lès-Tours",Aucune ville dans votre région,49.8,34,11,2.76
+corse,True,6000,False,0,False,0,430,430,Ajaccio,Aucune ville dans votre région,27.0,34,11,2.76
+grand-est,True,6000,False,0,False,0,190,65,"Châlons-en-Champagne, Vandœuvre-lès-Nancy",Colmar,42.0,34,11,2.76
+guadeloupe,False,6000,False,0,False,0,240,120,Baie-Mahault,Aucune ville dans votre région,41.0,34,11,2.76
+guyane,False,6000,False,0,False,0,0,0,Aucune ville dans votre région,Aucune ville dans votre région,42.5,34,11,2.76
+hauts-de-france,True,6000,False,0,False,0,188,120,"Douai, Tourcoing, Villeneuve-d'Ascq, Lens, Wattrelos, Liévin",Aucune ville dans votre région,33.0,34,11,2.76
+ile-de-france,True,6000,True,6000,True,15000,220,94,"Paris,Boulogne-Billancourt, Athis-Mons, Conflans-Sainte-Honorine","Montreuil, Colombes",46.15,34,11,2.76
+la-reunion,False,6000,False,0,False,0,103,44,"La Possession, Saint-André, Saint-Joseph, Saint-Leu",Aucune ville dans votre région,51.0,34,11,2.76
+martinique,False,6000,False,0,False,0,0,0,Aucune ville dans votre région,Aucune ville dans votre région,30.0,34,11,2.76
+mayotte,False,6000,False,0,False,0,70,35,Koungou,Aucune ville dans votre région,30.0,34,11,2.76
+normandie,True,6000,True,2000,True,2000,260,150,"Rouen, Cherbourg-en-Cotentin",Caen,35.0,34,11,2.76
+nouvelle-aquitaine,True,6000,False,0,False,0,209,10,"Anglet, Talence, Villenave-d'Ornon",Angoulême,41.0,34,11,2.76
+occitanie,True,6000,True,2000,False,2000,213,188,Colomiers,Aucune ville dans votre région,44.0,34,11,2.76
+pays-de-la-loire,True,6000,False,0,False,0,365,325,"La Roche-sur-Yon, Saint-Herblain",Aucune ville dans votre région,48.0,34,11,2.76
+provence-alpes-cote-d-azur,True,6000,True,7000,False,0,198,157,"Nice, Aix-en-Provence, Antibes, Cagnes-sur-Mer, Gap, Hyères, La Ciotat, La Seyne-sur-Mer, Vitrolles","Marseille, Avignon, Cannes, Salon-de-Provence, Marignane",51.2,34,11,2.76

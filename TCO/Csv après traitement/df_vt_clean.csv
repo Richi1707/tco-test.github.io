@@ -1,0 +1,7 @@
+categorie_vt,prix_moyen_categorie,puissance_moyenne_categorie,co2_categorie,CV_categorie,conso_100km_categorie,tvs_moyenne_un,tvs_seconde_composante,modele_ve_a,modele_ve_b,modele_ve_c
+berline,36565.0,"113,79",161,10.0,10.25,1417.0,30.0,Tesla Model 3 Grande Autonomie,Ford Mustang Mach-E SR RWD,Porsche Taycan Turbo
+citadine,19055.71,"65,71",133,7.0,8.67,295.0,30.0,Renault Zoe ZE50 R135,Peugeot e-208,Fiat 500 La Prima
+utilitaire,36618.0,"95,83",195,11.0,10.7,3229.0,30.0,Peugeot e-Expert 50,Volkswagen e-Crafter,Renault Kangoo Z.E
+compacte,25900.63,"93,56",152,9.0,9.97,896.0,30.0,Hyundai IONIQ Electric,Volkswagen ID.3 77 kWh,Nissan Leaf
+suv,30895.71,"98,94",155,9.0,10.21,994.0,30.0,Kia e-Niro,Volkswagen ID.4,Hyundai Kona Electric
+cabriolet,58328.4,"253,48",226,18.0,14.84,4786.0,30.0,Smart EQ fortwo cabrio,Smart EQ fortwo cabrio,Smart EQ fortwo cabrio
